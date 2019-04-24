@@ -65,3 +65,5 @@ int main()
 
     return 0;
 }
+
+this is another _HAS_CHAR16_T_LANGUAGE_SUPPORT
